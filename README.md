@@ -9,4 +9,5 @@ Using public APIs
    4. Success message and error message
    
   1.2 Tabular Data
+   1. Console logging data from Nasa (https://data.giss.nasa.gov/gistemp/) stored in a .csv file
    
