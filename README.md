@@ -10,4 +10,7 @@ Using public APIs
    
   1.2 Tabular Data
    1. Console logging data from Nasa (https://data.giss.nasa.gov/gistemp/) stored in a .csv file
+  
+  1.3 Graphing with Chart.js (graphing 1.2 tabular data)
+   1. 
    
